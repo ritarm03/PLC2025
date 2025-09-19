@@ -4,4 +4,4 @@ Feito por A108400, Rita Beatriz Ribeiro Machado.
 
 
 ## Resolução
-Resolução do TPC: [tpc1.txt]()
+Resolução do TPC: [tpc1.txt](https://github.com/ritarm03/PLC2025/blob/main/TP1/tpc1.txt)
