@@ -1,8 +1,8 @@
 Indique uma expressão regular que pode representar strings binárias que não contêm a substring "011".
 
-R.: ^1*(01?)*$
+R.: ^1*(01?)*0*$
 
 1* -> uma sequência com 0 ou mais ocorrências de "1"
 (01?)* -> uma sequência com 0 ou mais ocorrências de (01?), ou seja, opcionalmente, poderá haver ocorrências de "01"
 Terminando ($) assim a expressão regular, não haverá nenhuma ocorrência da substring "011", pois não existe maneira possível
-do "1" ocorrer sozinho com/depois de (01?).
+do "1" ocorrer sozinho com/depois de (01?), apenas é possível para "0".
