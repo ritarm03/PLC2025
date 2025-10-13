@@ -1,5 +1,5 @@
 # TPC4
-Analisador léxico para uma linguagem de query.
+Analisador léxico para uma linguagem de query - SPARQL.
 Feito por A108400, Rita Beatriz Ribeiro Machado.
 
 
