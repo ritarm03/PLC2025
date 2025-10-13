@@ -4,4 +4,4 @@ Feito por A108400, Rita Beatriz Ribeiro Machado.
 
 
 ## Resolução
-Resolução do TPC: []()
+Resolução do TPC: [token.ipynb](https://github.com/ritarm03/PLC2025/blob/main/TP4/token.ipynb)
